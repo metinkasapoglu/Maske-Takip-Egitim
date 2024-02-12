@@ -1,0 +1,11 @@
+C:\Users\Stronger\Documents\Coding\C#\Projects\_GitHub\Maske-Takip-Egitim\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\Stronger\Documents\Coding\C#\Projects\_GitHub\Maske-Takip-Egitim\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\Stronger\Documents\Coding\C#\Projects\_GitHub\Maske-Takip-Egitim\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\Stronger\Documents\Coding\C#\Projects\_GitHub\Maske-Takip-Egitim\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stronger\Documents\Coding\C#\Projects\_GitHub\Maske-Takip-Egitim\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Stronger\Documents\Coding\C#\Projects\_GitHub\Maske-Takip-Egitim\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Stronger\Documents\Coding\C#\Projects\_GitHub\Maske-Takip-Egitim\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Stronger\Documents\Coding\C#\Projects\_GitHub\Maske-Takip-Egitim\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\Stronger\Documents\Coding\C#\Projects\_GitHub\Maske-Takip-Egitim\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\Stronger\Documents\Coding\C#\Projects\_GitHub\Maske-Takip-Egitim\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\Stronger\Documents\Coding\C#\Projects\_GitHub\Maske-Takip-Egitim\Entities\obj\Debug\net8.0\ref\Entities.dll
